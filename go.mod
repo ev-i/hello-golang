@@ -1,3 +1,3 @@
 module github.com/ev-i/hello-golang
 
-go 1.26.5
+go 1.22.12
